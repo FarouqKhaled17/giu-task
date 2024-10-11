@@ -1,0 +1,7 @@
+StudentID,CourseID,Semester,Grade
+10003827,47,Summer22,A
+7005838,37,Winter21,C+
+7002849,48,Winter22,D+
+10006840,15,Spring21,B-
+10006840,23,Spring21,A+
+10006840,14,Summer21,B-

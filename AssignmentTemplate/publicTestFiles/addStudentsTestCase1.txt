@@ -1,0 +1,19 @@
+ID,Name,Email,Major
+10003827,Jana Elsherif,jana.elsherif@student.giu-uni.de,Mechanical Enginnering
+10002859,Hussein Dawood,hussein.dawood@student.giu-uni.de,Informatics and Computer Science
+10006840,Evram Joseph,evram.joseph@student.giu-uni.de,Pharmaceutical Engineering
+10004867,Omar Khairy,omar.Khairy@student.giu-uni.de,Mechanical Enginnering
+10006476,Arwa Omara,arwa.omara@student.giu-uni.de,Mechanical Enginnering
+10003898,Haidy Hazem,haidy.hazem@student.giu-uni.de,Mechanical Enginnering
+10003857,Fatma Ashraf,fatma.ashraf@student.giu-uni.de,Mechanical Enginnering
+10000864,Ahmed Humoudi,ahmed.humoudi@student.giu-uni.de,Informatics and Computer Science
+10003823,Marwan Khalifa,marwan.khalifa@student.giu-uni.de,Mechanical Enginnering
+7004848,Tasneem Alaaeldien,tasneem.alaaeldien@student.giu-uni.de,Electrical Enginnering
+7002849,Aisha Ashraf,aisha.ashraf@student.giu-uni.de,Electrical Enginnering
+7036808,Nouran Mohamed,nouran.mohamed@student.giu-uni.de,Electrical Enginnering
+7005838,Yassmin Hany,yassmin.hany@student.giu-uni.de,Electrical Enginnering
+7001823,Youssef Elnady,youssef.elnady@student.giu-uni.de,Business Administration
+7005806,Mark Moheb,mark.moheb@student.giu-uni.de,Electrical Enginnering
+7036820,Khaled Yasser,khaled.yasser@student.giu-uni.de,Electrical Enginnering
+7004827,Seif Osama,seif.osama@student.giu-uni.de,Business Informatics
+13001024,Farid Kamal,farid.kamal@student.giu-uni.de,Informatics and Computer Science

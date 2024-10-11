@@ -1,0 +1,29 @@
+ID,Code,Name,creditHours
+11,MATH103,Mathematics I: Calculus I,8
+12,CSEN104,Introduction to Computer Science: Programming I,6
+13,PHYS101,Physics,5
+14,CSEN103,Digital Logic Design,4
+15,AS101,English for Academic Skills,4
+16,DE101,German 1,4
+21,MATH204,Mathematics II: Linear Algebra,4
+22,CSIS201,Computer Science II: Programming II,7
+23,CNET101,Computer Networks,5
+24,CSIS102,Theoretical Computer Science,5
+25,CSMR101,Computer Organization,5
+26,SM101,Scientific Methods,2
+27,DE202,German 2,4
+31,MATH105,Mathematics III: Discrete Mathematics,4
+32,INCS101,Programming III,7
+33,INCS102,Operating Systems,5
+34,INCS103,Databases,6
+35,INCS104,Data Structures & Algorithms,6
+36,CPS402,Communication and Presentation Skills,2
+37,DE303,German 3,4
+41,MATH403,Mathematics IV: Stochastics,4
+42,CSEN405,Software Engineering,4
+43,INCS406,Distributed &Web-based Systems,4
+44,INCS407,Information Security,4
+45,INCS408,Introduction to Data Science,4
+46,INCS409,Introduction to Media Informatics,4
+47,RPW401,Research Paper Writing,2
+48,DE404,German 4,4
